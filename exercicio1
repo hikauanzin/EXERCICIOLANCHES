@@ -1,0 +1,21 @@
+algoritmo "lanche"
+
+var
+
+precoSalgado, precoBebida, total: real
+
+inicio
+
+escreval ("preço do salgado")
+leia (precoSalgado)
+
+escreval ("preço da Bebida")
+leia (precoBebida)
+
+
+total <- precoSalgado + precoBebida)
+
+escreval ("O total a ser pago é:", total, "", "reais")
+ 
+ 
+fimalgoritmo
